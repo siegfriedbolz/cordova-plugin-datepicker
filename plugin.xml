@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-        id="com.inazar.datepicker"
+        id="io.github.siegfriedbolz.cordova.plugins.datepicker"
         version="0.4.0">
 
-    <name>DatePicker</name>
+    <name>Datepicker - Bolz Edition</name>
 	
-    <description>Cordova DatePicker Plugin for iOS and Android</description>
+    <description>Cordova Datepicker Plugin for iOS 8 and Android 4 - Bolz Edition (www.app-consultant.de)</description>
 	
     <license>MIT</license>
 	

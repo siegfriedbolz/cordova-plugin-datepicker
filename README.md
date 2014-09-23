@@ -1,6 +1,6 @@
-# DatePicker Plugin for Cordova/PhoneGap 3.0 (iOS and Android)
+# DatePicker Plugin for Cordova/PhoneGap 3.5 (iOS 8 and Android 4)
 
-This is a combined version of DatePicker iOS and Android plugin for Cordova/Phonegap 3.0.
+This is a combined version of DatePicker iOS (Supports iOS 7 + 8) and Android 4 plugin for Cordova/Phonegap 3.5.
 - Original iOS version: https://github.com/sectore/phonegap3-ios-datepicker-plugin
 
 - Original Android version: https://github.com/bikasv/cordova-android-plugins/tree/master/datepicker
@@ -12,12 +12,12 @@ This is a combined version of DatePicker iOS and Android plugin for Cordova/Phon
 2) Add a plugin to your project using Cordova CLI:
 
 ```bash
-cordova plugin add https://github.com/VitaliiBlagodir/cordova-plugin-datepicker
+cordova plugin add https://github.com/siegfriedbolz/cordova-plugin-datepicker
 ```
 Or using PhoneGap CLI:
 
 ```bash
-phonegap local plugin add https://github.com/VitaliiBlagodir/cordova-plugin-datepicker
+phonegap local plugin add https://github.com/siegfriedbolz/cordova-plugin-datepicker
 ```
 
 ## Usage
